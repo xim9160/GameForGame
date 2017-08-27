@@ -17,6 +17,7 @@
 		C30FCAE642527130193F83B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30FCA8898FC895A83F8A9E3 /* Assets.xcassets */; };
 		C30FCB0F8D95BE23BF580B12 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30FC209970A41450965A62B /* Info.plist */; };
 		C30FCC54D3F44182563C55DB /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30FC1C1341F4343F639E271 /* Info.plist */; };
+		C30FCD5B3E3A0F86F0876E8D /* Plan in Resources */ = {isa = PBXBuildFile; fileRef = C30FC6573E0E7CCA5393E2DB /* Plan */; };
 		C30FCD9EA497726283671E89 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30FCFA4C386AFD11D418B8C /* GameScene.swift */; };
 		C30FCF09ECCE15033059C47D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30FCFD8BE1460B194431F09 /* Main.storyboard */; };
 		C30FCFC17B2E2BD3C913FEA2 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30FCFC773F37C06677322E7 /* Info.plist */; };
@@ -45,6 +46,7 @@
 		C30FC3255058A41DA85EEC94 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		C30FC45A392BC6CE0B92B62E /* GameForGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameForGameUITests.swift; sourceTree = "<group>"; };
 		C30FC4F4E7D1CC64F438242D /* GameForGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameForGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C30FC6573E0E7CCA5393E2DB /* Plan */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Plan; sourceTree = "<group>"; };
 		C30FC6F58859EF3EF2A24240 /* GameForGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GameForGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30FC7EBFC76BA0670AE2E7A /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		C30FCA8898FC895A83F8A9E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				C30FC4F4E7D1CC64F438242D /* GameForGame.app */,
 				C30FCC1D8D561852967D25D7 /* GameForGameTests.xctest */,
 				C30FC6F58859EF3EF2A24240 /* GameForGameUITests.xctest */,
+				C30FC6573E0E7CCA5393E2DB /* Plan */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				C30FCF09ECCE15033059C47D /* Main.storyboard in Resources */,
 				C30FC192830BA8961335A337 /* GameScene.sks in Resources */,
 				C30FC986FD032FFD27DE9548 /* Actions.sks in Resources */,
+				C30FCD5B3E3A0F86F0876E8D /* Plan in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
